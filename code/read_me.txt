@@ -1,4 +1,4 @@
-# Project Name - Beyonf News - YouTube Comments Analysis
+# Project Name - Beyond News - YouTube Comments Analysis
 
 ## Introduction
 This repository contains code to perform an analysis of YouTube comments using various APIs and natural language processing techniques. The analysis includes data retrieval, data preprocessing, sentiment analysis, network analysis, and visualization of results. This README file provides instructions on how to execute the code in the correct order. Please make sure to adjust file paths as needed for your local machine for data paths.
