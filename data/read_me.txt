@@ -24,7 +24,7 @@ This section contains data we used for our analysis. Within the code the data is
     ```
     videos.csv
 
-5. **comments_final:**This data contains only a sample of all comments and theier analyses. get the whole data here: https://drive.google.com/file/d/1QoGZmYp6tekrnsjc9-YsuHfOh5XbqubE/view?usp=drive_link
+5. **comments_final_sample:**This data contains only a sample of all comments and theier analyses. get the whole data here: https://drive.google.com/file/d/1QoGZmYp6tekrnsjc9-YsuHfOh5XbqubE/view?usp=drive_link
     ```
     comments_final.csv
 
