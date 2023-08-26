@@ -26,7 +26,7 @@ This section contains data we used for our analysis. Within the code the data is
 
 5. **comments_final_sample:**This data contains only a sample of all comments and theier analyses. get the whole data here: https://drive.google.com/file/d/1QoGZmYp6tekrnsjc9-YsuHfOh5XbqubE/view?usp=drive_link
     ```
-    comments_final.csv
+    comments_final_sample.csv
 
 6. **ids:**This ordner contains three txt files in which the video id's are safed we focus on
     ```
