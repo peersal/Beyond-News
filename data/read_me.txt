@@ -46,7 +46,7 @@ It follows a short description of the data used:
     coomentID STRING: Id that uniquely identifies each comment
     text STRING: Text of the comment
     clean_tokens LIST[STRING]: Cleaned tokens of text
-    clean_text STRING_ Tokens as string
+    clean_text STRING: Tokens as string
     publishedAT DATETIME: Datetime of comment posted
     authorID STRING: Id that uniquely identitifies each author
     likeCount INT: Number of likes comment has
