@@ -16,8 +16,8 @@ Please make sure to adjust file paths as needed for your local machine for data 
 2. **Install Dependencies:** Ensure you have the required dependencies installed. You might want to set up a virtual environment before installing dependencies.
 
 3. **API Keys Setup:**
-    - **YouTube Data API:** Obtain a YouTube Data API key by following the instructions [here](https://developers.google.com/youtube/registering_an_application).
-    - **Perspective API:** You'll need an API key to use the Perspective API for toxic comment analysis. Obtain it [here](https://www.perspectiveapi.com/).
+    - **YouTube Data API:** Obtain a YouTube Data API key by following the instructions (https://developers.google.com/youtube/registering_an_application).
+    - **Perspective API:** You'll need an API key to use the Perspective API for toxic comment analysis. Obtain it (https://www.perspectiveapi.com/).
     
     Once you have the keys, replace them in the appropriate code files.
 
