@@ -65,6 +65,11 @@ Follow these steps to execute the code in the correct order:
     anaconda code_plots.ipynb
     ```
 
+9. **code_analysis:** Run this script to calculate a logistic and a linear regression.
+    ```
+    anaconda code_analysis.ipynb
+    ```
+
 ## Customization
 Feel free to customize various parameters, such as API endpoints, file paths, and analysis methods, to suit your needs.
 
